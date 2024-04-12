@@ -9,7 +9,7 @@ The Love Counter calculates the love percentage between two people based on thei
 ## How to Use
 
 1. **Clone the Repository:** Clone this repository to your local machine using the following command:
-git clone https://github.com/your-username/love-counter.git
+git clone https://github.com/rajeshchau/love-counter.git
 
 markdown
 Copy code
